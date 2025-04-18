@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 - 💡 Always excited to explore new ideas and challenges.
 
 ## 📫 Connect with Me
+- nicolas-2romanina.vercel.app
 - 📧 Email: nicolasromanina@gmail.com
 - 💼 LinkedIn: -nicolas-romanina
 - 🐦 Twitter: @nicolasromanina
