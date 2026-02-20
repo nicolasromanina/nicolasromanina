@@ -27,7 +27,7 @@ Ingénieur passionné par les technologies innovantes, spécialisé en **systèm
 <td width="80%">
 
 ### 🎯 **Master 2 – Ingénierie des Systèmes Électroniques et Informatiques**
-_Université d'Antananarivo (Ankatso) | 2025–2026_
+_Université d'Antananarivo (Ankatso) | 2023–2024_
 
 📊 **Progression :** ![45%](https://progress-bar.dev/45?title=En+cours)
 
