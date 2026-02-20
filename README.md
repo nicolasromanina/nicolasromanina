@@ -66,7 +66,7 @@ _Université d'Antananarivo | 2022–2023_
 ## 💼 **Expérience Professionnelle**
 
 ### 💻 **Stagiaire Développeur Fullstack – Madagascar 3M**
-_Juillet–Décembre 2025_
+_Juillet–Décembre 2024_
 
 <div align="center">
 
