@@ -7,7 +7,7 @@
 
 ## 👨‍💻 **Profil Professionnel**
 
-Ingénieur passionné par les technologies innovantes, spécialisé en **systèmes électroniques**, **développement fullstack** et **traitement des signaux**. Actuellement en Master 2 à l'Université d'Antananarivo.
+Ingénieur passionné par les technologies innovantes, spécialisé en **systèmes électroniques**, **développement fullstack** et **traitement des signaux**. 
 
 <div align="center">
 
